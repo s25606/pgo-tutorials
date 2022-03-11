@@ -1,2 +1,3 @@
-.idea/
-pgo-tutorials.iml
+Elias Kohut 
+12c
+s25606  
